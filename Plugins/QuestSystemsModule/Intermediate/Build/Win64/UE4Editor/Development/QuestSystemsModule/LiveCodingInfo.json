@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QuestSystemsModule.cpp.obj": [
+			"InteractionComponent.cpp.obj",
+			"Objective.cpp.obj",
+			"Quest.cpp.obj",
+			"QuestSystemsModule.cpp.obj"
+		],
+		"Module.QuestSystemsModule.gen.cpp.obj": [
+			"InteractableActor.gen.cpp.obj",
+			"InteractableObject.gen.cpp.obj",
+			"InteractionComponent.gen.cpp.obj",
+			"LocationMarker.gen.cpp.obj",
+			"LocationMarkerActor.gen.cpp.obj",
+			"Objective.gen.cpp.obj",
+			"Quest.gen.cpp.obj",
+			"QuestSystemsModule.init.gen.cpp.obj"
+		]
+	}
+}
