@@ -2,6 +2,6 @@
 	"BuildId": "17155196",
 	"Modules": 
 	{
-		"DestructibleComponentPropsModule": "UE4Editor-DestructibleComponentPropsModule-0002.dll"
+		"DestructibleComponentPropsModule": "UE4Editor-DestructibleComponentPropsModule.dll"
 	}
 }

@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\UE4\TestDestructible\Plugins\QuestSystemsModule\Source\QuestSystemsModule\Private
+/I D:\UE4\TestDestructible\TestDestructible\Plugins\QuestSystemsModule\Source\QuestSystemsModule\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UMG
 /I Runtime
 /I Runtime\UMG\Public
@@ -232,9 +232,9 @@
 /I Runtime\MovieSceneTracks\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
-/I D:\UE4\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystemsModule
-/I D:\UE4\TestDestructible\Plugins\QuestSystemsModule\Source
-/I D:\UE4\TestDestructible\Plugins\QuestSystemsModule\Source\QuestSystemsModule\Public
+/I D:\UE4\TestDestructible\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystemsModule
+/I D:\UE4\TestDestructible\TestDestructible\Plugins\QuestSystemsModule\Source
+/I D:\UE4\TestDestructible\TestDestructible\Plugins\QuestSystemsModule\Source\QuestSystemsModule\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -264,12 +264,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\UE4\TestDestructible\Intermediate\Build\Win64\TestDestructibleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\UE4\TestDestructible\Intermediate\Build\Win64\TestDestructibleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\UE4\TestDestructible\Intermediate\Build\Win64\TestDestructibleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\UE4\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Development\QuestSystemsModule\Module.QuestSystemsModule.gen.cpp"
-/FI"D:\UE4\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Development\QuestSystemsModule\Definitions.QuestSystemsModule.h"
-/Fo"D:\UE4\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Development\QuestSystemsModule\Module.QuestSystemsModule.gen.cpp.obj"
+/FI"D:\UE4\TestDestructible\TestDestructible\Intermediate\Build\Win64\TestDestructibleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\UE4\TestDestructible\TestDestructible\Intermediate\Build\Win64\TestDestructibleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\UE4\TestDestructible\TestDestructible\Intermediate\Build\Win64\TestDestructibleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\UE4\TestDestructible\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Development\QuestSystemsModule\Module.QuestSystemsModule.gen.cpp"
+/FI"D:\UE4\TestDestructible\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Development\QuestSystemsModule\Definitions.QuestSystemsModule.h"
+/Fo"D:\UE4\TestDestructible\TestDestructible\Plugins\QuestSystemsModule\Intermediate\Build\Win64\UE4Editor\Development\QuestSystemsModule\Module.QuestSystemsModule.gen.cpp.obj"
 /TP
 /GR-
 /W4
